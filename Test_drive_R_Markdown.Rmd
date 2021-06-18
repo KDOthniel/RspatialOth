@@ -1,0 +1,19 @@
+---
+title: "Test drive R Markdown"
+author: "Lulus"
+date: "6/18/2021"
+output: github_document
+---
+
+
+
+Learning patiently will be the key in this process.
+
+```{r}
+data("mtcars")
+attach(mtcars)
+plot(mpg~hp, pch=20, col="red")
+abline(lm(mpg~hp), lty=2, lwd=2, col="blue")
+```
+
+Here is the final result we have got over this project. Was such a fun at the end of the day. 
