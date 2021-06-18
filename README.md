@@ -1,2 +1,2 @@
 # RspatialOth
-Testing a Project for my local computer.
+Testing a Project from my local computer.
